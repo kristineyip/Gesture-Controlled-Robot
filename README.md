@@ -9,4 +9,4 @@ This application consists of:
 
 The machine learning model was trained on a custom dataset of 7 classes (idle, forward, backward, left, right, squiggle) with ~100 samples each.
 
-A demo of the project working for a few classifications:
+A demo video of the project working:
