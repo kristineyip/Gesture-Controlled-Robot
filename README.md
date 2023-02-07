@@ -9,7 +9,7 @@ This application consists of:
 
 The machine learning model was trained on a custom dataset of 7 classes (idle, forward, backward, left, right, squiggle) with ~100 samples each.
 
-Demo Clips:
+## Demo Clips
 
 https://user-images.githubusercontent.com/90000011/217140441-9e798125-5cd9-4d87-9052-7a099da77ef1.mov
 
